@@ -13,7 +13,9 @@ My GitHub profile readme — skills, projects &amp; achievements
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,vscode" />
 </p>
-```
+## 📊 GitHub Stats
+
+![Suhitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhithareddy2024-sketch&show_icons=true&theme=tokyonight)
 
 
 
