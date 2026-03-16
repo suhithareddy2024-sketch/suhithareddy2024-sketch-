@@ -8,3 +8,28 @@ My GitHub profile readme — skills, projects &amp; achievements
 ✨ Love turning ideas into real projects
 🎯 Goal: Become a skilled IT professional & developer
 📍 Based in Visakhapatnam, India 🇮🇳
+## 🛠 Skills
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c++,python,java,c" />
+</p>
+```
+
+---
+
+**To add more skills just add them with commas:**
+
+| Skill | Code to add |
+|-------|------------|
+| Python | `python` |
+| Java | `java` |
+| C | `c` |
+| Git | `git` |
+| GitHub | `github` |
+| VS Code | `vscode` |
+
+---
+
+**Example with more skills:**
+```
+https://skillicons.dev/icons?i=python,java,c,git,github,vscode
