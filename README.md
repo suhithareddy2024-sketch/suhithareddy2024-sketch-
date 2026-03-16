@@ -11,23 +11,10 @@ My GitHub profile readme — skills, projects &amp; achievements
 ## 🛠 Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c++,python,java,c,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,vscode" />
 </p>
 ```
 
----
 
-**To add more skills just add them with commas:**
-
-| Skill | Code to add |
-|-------|------------|
-| Python | `python` |
-| Java | `java` |
-| C | `c` |
-| Git | `git` |
-| GitHub | `github` |
-| VS Code | `vscode` |
-
----
 
 
