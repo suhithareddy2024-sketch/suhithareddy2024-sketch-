@@ -11,7 +11,7 @@ My GitHub profile readme — skills, projects &amp; achievements
 ## 🛠 Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c++,python,java,c" />
+<img src="https://skillicons.dev/icons?i=c++,python,java,c,git,github,vscode" />
 </p>
 ```
 
@@ -30,6 +30,4 @@ My GitHub profile readme — skills, projects &amp; achievements
 
 ---
 
-**Example with more skills:**
-```
-https://skillicons.dev/icons?i=python,java,c,git,github,vscode
+
