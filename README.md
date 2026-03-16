@@ -17,6 +17,14 @@ My GitHub profile readme — skills, projects &amp; achievements
 
 ![Suhitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhithareddy2024-sketch&show_icons=true&theme=tokyonight)
 
+## 📜 Certifications
+
+| 🏆 Certificate | 🏫 Issuer | 📅 Year |
+|----------------|-----------|---------|
+| 🥇 Oracle Cloud Infrastructure 2025 Certified Foundations Associate | Oracle University | 2025 |
+| 🌐 Network Fundamentals | Infosys Springboard | 2025 |
+| 🐍 Python 101 for Data Science | IBM Cognitive Class | 2025 |
+| 🤖 Python Programming for Agentic AI | Capabl — AgenticAI Saksham | 2026 |
 
 
 
